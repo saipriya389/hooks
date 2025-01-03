@@ -1,0 +1,14 @@
+div{
+  background-color: black;
+}
+ul{
+  padding: 10px;
+  margin: 40px;
+  border: 5px lightpink;
+  text-align: right;
+  font-size: large;
+}
+li{
+  display: inline-block;
+  margin-right: 10px;
+}
